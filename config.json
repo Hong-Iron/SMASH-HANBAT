@@ -20,5 +20,64 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "S7 체육관": {
+      "style": "concrete",
+      "wall": "#c9cccf",
+      "glass": "#4a6272",
+      "frame": "#9aa3aa"
+    },
+    "S1 도서관": {
+      "style": "stone",
+      "wall": "#d8d6cf",
+      "glass": "#3e4a55",
+      "frame": "#6b6f73"
+    },
+    "S8 건설공학관": {
+      "style": "brick",
+      "wall": "#7a4a4c",
+      "glass": "#3a4652",
+      "frame": "#c8c8c8"
+    },
+    "N8 소재관 및 공동실험실습관": {
+      "style": "brick",
+      "wall": "#a5695a",
+      "glass": "#3b4450",
+      "frame": "#e2ddd8"
+    },
+    "S0 국제교류관": {
+      "style": "glass",
+      "wall": "#eef0f2",
+      "glass": "#3d6c8b",
+      "frame": "#e6e8ea"
+    },
+    "S2 학생회관": {
+      "style": "concrete",
+      "wall": "#b9bfc6",
+      "glass": "#3c5871",
+      "frame": "#8c939a"
+    },
+    "N4 산업정보관": {
+      "style": "brick",
+      "wall": "#a87a72",
+      "glass": "#497f9c",
+      "frame": "#d9d4ce"
+    },
+    "N12 동아리관": {
+      "style": "concrete",
+      "wall": "#d6d3cc",
+      "glass": "#4b6072",
+      "frame": "#9a9a96"
+    },
+    "S4 인문사회관": {
+      "style": "brick",
+      "wall": "#b57a55",
+      "glass": "#3d4650",
+      "frame": "#e6e2da",
+      "hip": true,
+      "roof": "#7a4a3a"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
